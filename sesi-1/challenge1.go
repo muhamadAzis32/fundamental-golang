@@ -37,3 +37,7 @@ fmt.Printf("%f \n", k)
 fmt.Printf("%e \n", k)
 
 https: //prnt.sc/k5buvEoB3YSC
+
+
+// Rusia
+fmt.Printf("%c\n", '\u042F')

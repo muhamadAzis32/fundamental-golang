@@ -2,10 +2,9 @@ package main
 
 import "fmt"
 
-func main(){
+func main() {
 
-	// Menampilkan text 
-
+	// Menampilkan text
 
 	// Memunculkan text menghasilkan garis baru dan spasi
 	fmt.Println("Airell Jordan")
@@ -15,5 +14,4 @@ func main(){
 	fmt.Print("Airell Jordan\n")
 	fmt.Print("Airell", " ", "Jordan\n")
 
-	
 }
